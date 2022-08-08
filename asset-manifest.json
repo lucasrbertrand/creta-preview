@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/creta-preview/static/css/main.beb073a5.css",
+    "main.js": "/creta-preview/static/js/main.e6833d4c.js",
+    "static/js/787.6c53452e.chunk.js": "/creta-preview/static/js/787.6c53452e.chunk.js",
+    "static/media/ABC.png": "/creta-preview/static/media/ABC.e55f4f528a1ddd9c9c5e.png",
+    "static/media/Estoque.png": "/creta-preview/static/media/Estoque.5286ece975d158b03576.png",
+    "static/media/Fornecedores.png": "/creta-preview/static/media/Fornecedores.1a15a254981f6412bbc0.png",
+    "static/media/Dashboard.png": "/creta-preview/static/media/Dashboard.396ddbdcb72d58fbf89b.png",
+    "static/media/CretaLogoCompleta.png": "/creta-preview/static/media/CretaLogoCompleta.1aa0693949808a1d7bb6.png",
+    "static/media/relatorios.png": "/creta-preview/static/media/relatorios.162e1df336ccf9e06a5d.png",
+    "static/media/cretalogo.png": "/creta-preview/static/media/cretalogo.60b3d74d229e0efcb67c.png",
+    "static/media/UserAzul.png": "/creta-preview/static/media/UserAzul.8e155f4b018db6566177.png",
+    "static/media/SinoAzul.png": "/creta-preview/static/media/SinoAzul.974583383f6432c05bb5.png",
+    "static/media/AtlasLogoBrancaCompleta.png": "/creta-preview/static/media/AtlasLogoBrancaCompleta.36e0c28caa6ff9d0960d.png",
+    "static/media/LogoBrancaSemAnalytics.png": "/creta-preview/static/media/LogoBrancaSemAnalytics.36e0c28caa6ff9d0960d.png",
+    "index.html": "/creta-preview/index.html",
+    "main.beb073a5.css.map": "/creta-preview/static/css/main.beb073a5.css.map",
+    "main.e6833d4c.js.map": "/creta-preview/static/js/main.e6833d4c.js.map",
+    "787.6c53452e.chunk.js.map": "/creta-preview/static/js/787.6c53452e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beb073a5.css",
+    "static/js/main.e6833d4c.js"
+  ]
+}
